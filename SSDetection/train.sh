@@ -1,0 +1,1 @@
+python train.py --config-file configs/new_efficient_net_b3_ssd_coco.yaml
